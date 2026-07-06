@@ -1,0 +1,27 @@
+📖 Theory (मराठीत, अगदी Basic पासून)
+🎯 Learning Objectives
+🌍 Real World Example
+🏢 Company Use Cases
+⚙️ Internal Working (Step by Step)
+🧠 Memory Diagram / Flow Diagram (Text स्वरूपात)
+💻 Java Code Examples
+📝 Code Explanation (Line by Line)
+⏱️ Time Complexity (जेथे लागू असेल)
+✅ Advantages
+❌ Disadvantages
+⚠️ Common Mistakes
+💡 Best Practices
+🎤 Fresher Interview Questions
+🏆 Experienced Interview Questions
+💻 Coding Practice Questions
+📚 Assignment
+🧠 Quiz
+📌 Lecture Summary
+📖 शिकवण्याची पद्धत
+सुरुवात Basic पासून.
+प्रत्येक Concept मराठीत.
+कठीण Terms सोप्या भाषेत.
+प्रत्येक Topic Company मधील Real Example सोबत.
+Interview मध्ये काय विचारतात ते वेगळं सांगीन.
+Previous Lecture शी Connection दाखवीन.
+पुढच्या Lecture साठी Foundation तयार करीन.

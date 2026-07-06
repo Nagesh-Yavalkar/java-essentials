@@ -1,0 +1,255 @@
+📚 Java Collection Framework Master Roadmap
+🟢 Module 1 : Collection Framework Fundamentals (Foundation)
+Lecture 1
+Introduction to Collection Framework
+What is Collection?
+What is Collection Framework?
+Why Collection Framework?
+Array vs Collection
+Real World Examples
+Lecture 2
+Collection Framework Architecture
+Iterable Interface
+Collection Interface
+Hierarchy
+Internal Structure
+Lecture 3
+Collection Interface Methods
+add()
+remove()
+contains()
+size()
+clear()
+isEmpty()
+iterator()
+toArray()
+Lecture 4
+Generics in Collections
+Why Generics?
+Type Safety
+Diamond Operator (<>)
+Raw Type vs Generic Type
+Lecture 5
+Iteration Techniques
+for loop
+Enhanced for loop
+Iterator
+ListIterator
+forEach()
+Lecture 6
+Time Complexity Basics
+Big-O Introduction
+Choosing the Right Collection
+Lecture 7
+Module 1 Revision
+Interview Questions
+Coding Practice
+Quiz
+🟢 Module 2 : List Interface
+Lecture 1
+Introduction to List
+Features
+Ordered Collection
+Duplicate Elements
+Null Values
+Index Based Access
+Lecture 2
+List Methods
+add()
+get()
+set()
+remove()
+contains()
+indexOf()
+lastIndexOf()
+Lecture 3
+Internal Working of List
+Memory Diagram
+Time Complexity
+Real World Examples
+Lecture 4
+Interview Questions
+Coding Problems
+Best Practices
+🟢 Module 3 : ArrayList (Deep Dive)
+Lecture 1
+Introduction
+Internal Working
+Dynamic Array
+Capacity vs Size
+Lecture 2
+Growth Formula
+Resizing
+Constructors
+Memory Diagram
+Lecture 3
+CRUD Operations
+Performance Analysis
+Time Complexity
+Lecture 4
+Company Use Cases
+Best Practices
+Common Mistakes
+Interview Questions
+Lecture 5
+Coding Practice
+Mini Project
+🟢 Module 4 : LinkedList
+Lecture 1
+Introduction
+Node Structure
+Doubly Linked List
+Lecture 2
+Internal Working
+Memory Diagram
+Lecture 3
+Insertion
+Deletion
+Traversal
+Time Complexity
+Lecture 4
+ArrayList vs LinkedList
+Lecture 5
+Interview Questions
+Coding Practice
+🟢 Module 5 : Vector & Stack
+Lecture 1
+Vector
+History
+Synchronization
+Capacity Increment
+Lecture 2
+Stack
+LIFO
+push()
+pop()
+peek()
+search()
+Lecture 3
+Vector vs ArrayList
+Interview Questions
+Coding Practice
+🟢 Module 6 : Queue & Deque
+Lecture 1
+Queue Interface
+FIFO
+Queue Methods
+Lecture 2
+PriorityQueue
+Internal Working
+Heap Concept (Basic)
+Lecture 3
+Deque
+ArrayDeque
+Double Ended Queue
+Lecture 4
+Queue Real World Examples
+Interview Questions
+Coding Practice
+🟢 Module 7 : Set Interface
+Lecture 1
+Set Interface
+Features
+Lecture 2
+HashSet
+Internal Working
+Hashing Basics
+Lecture 3
+LinkedHashSet
+Lecture 4
+TreeSet
+Sorting
+Red-Black Tree (Basic)
+Lecture 5
+Comparison
+Interview Questions
+🟢 Module 8 : Map Interface
+Lecture 1
+Map Interface
+Key-Value Pair
+Features
+Lecture 2
+HashMap
+Internal Working
+Bucket
+Hashing
+Collision
+Lecture 3
+Load Factor
+Rehashing
+Capacity
+Lecture 4
+LinkedHashMap
+Lecture 5
+TreeMap
+Lecture 6
+Hashtable
+ConcurrentHashMap (Introduction)
+Lecture 7
+Map Comparison
+Interview Questions
+Coding Practice
+🟢 Module 9 : Sorting in Collections
+Lecture 1
+Comparable
+Lecture 2
+Comparator
+Lecture 3
+Custom Sorting
+Lecture 4
+Lambda with Comparator
+Lecture 5
+Interview Questions
+Coding Practice
+🟢 Module 10 : Traversal
+Lecture 1
+Iterator
+Lecture 2
+ListIterator
+Lecture 3
+Enumeration
+Lecture 4
+Fail-Fast
+Fail-Safe
+ConcurrentModificationException
+🟢 Module 11 : Collections Utility Class
+Lecture 1
+Collections Class Overview
+Lecture 2
+sort()
+reverse()
+shuffle()
+Lecture 3
+binarySearch()
+max()
+min()
+frequency()
+Lecture 4
+synchronizedCollection()
+unmodifiableCollection()
+🟢 Module 12 : Internal Working (Interview Special)
+Lecture 1
+ArrayList Internal
+Lecture 2
+LinkedList Internal
+Lecture 3
+HashSet Internal
+Lecture 4
+HashMap Internal
+Lecture 5
+TreeMap Internal
+Lecture 6
+Performance Comparison
+Memory Diagrams
+🟢 Module 13 : Interview Preparation
+Lecture 1
+Frequently Asked Questions
+Lecture 2
+Scenario-Based Questions
+Lecture 3
+Coding Questions
+Lecture 4
+Company Use Cases
+Lecture 5
+Final Revision
+Mock Interview
