@@ -23,3 +23,6 @@ class Iteratoreg{
         
     }
 }
+
+// Here Iterator use beacause in iterator there is method of remove 
+// you can type command "javap java.util.Iterator" here you can see bytecode 
