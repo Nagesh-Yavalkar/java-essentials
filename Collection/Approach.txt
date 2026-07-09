@@ -25,3 +25,12 @@
 Interview मध्ये काय विचारतात ते वेगळं सांगीन.
 Previous Lecture शी Connection दाखवीन.
 पुढच्या Lecture साठी Foundation तयार करीन.
+
+
+Module 1: 10 Lectures
+Module 2 (List): ~20–25 Lectures
+Module 3 (Set): ~12–15 Lectures
+Module 4 (Queue & Deque): ~10–12 Lectures
+Module 5 (Map): ~18–20 Lectures
+Module 6 (Java 8 Collections + Streams): ~15 Lectures
+Module 7 (Collections Utility + Advanced + Interview Mastery): ~10–15 Lectures
