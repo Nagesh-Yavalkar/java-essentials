@@ -7,12 +7,14 @@ What is Collection Framework?
 Why Collection Framework?
 Array vs Collection
 Real World Examples
+
 Lecture 2
 Collection Framework Architecture
 Iterable Interface
 Collection Interface
 Hierarchy
 Internal Structure
+
 Lecture 3
 Collection Interface Methods
 add()
@@ -23,12 +25,14 @@ clear()
 isEmpty()
 iterator()
 toArray()
+
 Lecture 4
 Generics in Collections
 Why Generics?
 Type Safety
 Diamond Operator (<>)
-Raw Type vs Generic Type
+Raw Type vs Generic Type    Complete on 6/7/2026
+
 Lecture 5
 Iteration Techniques
 for loop
@@ -36,16 +40,21 @@ Enhanced for loop
 Iterator
 ListIterator
 forEach()
+
 Lecture 6
 Time Complexity Basics
 Big-O Introduction
 Choosing the Right Collection
+
 Lecture 7
 Module 1 Revision
 Interview Questions
 Coding Practice
 Quiz
+
+
 🟢 Module 2 : List Interface
+
 Lecture 1
 Introduction to List
 Features
@@ -53,6 +62,7 @@ Ordered Collection
 Duplicate Elements
 Null Values
 Index Based Access
+
 Lecture 2
 List Methods
 add()
@@ -62,62 +72,76 @@ remove()
 contains()
 indexOf()
 lastIndexOf()
+
 Lecture 3
 Internal Working of List
 Memory Diagram
 Time Complexity
 Real World Examples
+
 Lecture 4
 Interview Questions
 Coding Problems
 Best Practices
+
 🟢 Module 3 : ArrayList (Deep Dive)
 Lecture 1
 Introduction
 Internal Working
 Dynamic Array
 Capacity vs Size
+
 Lecture 2
 Growth Formula
 Resizing
 Constructors
 Memory Diagram
+
 Lecture 3
 CRUD Operations
 Performance Analysis
 Time Complexity
+
 Lecture 4
 Company Use Cases
 Best Practices
 Common Mistakes
 Interview Questions
+
 Lecture 5
 Coding Practice
 Mini Project
+
 🟢 Module 4 : LinkedList
 Lecture 1
 Introduction
 Node Structure
 Doubly Linked List
+
 Lecture 2
 Internal Working
 Memory Diagram
+
 Lecture 3
 Insertion
 Deletion
 Traversal
 Time Complexity
+
 Lecture 4
 ArrayList vs LinkedList
+
 Lecture 5
 Interview Questions
 Coding Practice
+
 🟢 Module 5 : Vector & Stack
 Lecture 1
 Vector
 History
 Synchronization
 Capacity Increment
+
 Lecture 2
 Stack
 LIFO
@@ -125,43 +149,54 @@ push()
 pop()
 peek()
 search()
+
 Lecture 3
 Vector vs ArrayList
 Interview Questions
 Coding Practice
+
 🟢 Module 6 : Queue & Deque
 Lecture 1
 Queue Interface
 FIFO
 Queue Methods
+
 Lecture 2
 PriorityQueue
 Internal Working
 Heap Concept (Basic)
+
 Lecture 3
 Deque
 ArrayDeque
 Double Ended Queue
+
 Lecture 4
 Queue Real World Examples
 Interview Questions
 Coding Practice
+
 🟢 Module 7 : Set Interface
 Lecture 1
 Set Interface
 Features
+
 Lecture 2
 HashSet
 Internal Working
 Hashing Basics
+
 Lecture 3
 LinkedHashSet
+
 Lecture 4
 TreeSet
 Sorting
 Red-Black Tree (Basic)
+
 Lecture 5
 Comparison
+
 Interview Questions
 🟢 Module 8 : Map Interface
 Lecture 1
